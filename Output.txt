@@ -1,0 +1,3 @@
+MCMXCIV + MMXXIV = 4018 ->  Four Thousand Eighteen 
+DCCC - MMMCMXCIX = -3199 -> Negative  Three Thousand One Hundred Ninety Nine 
+MMCDLXXVII * MMMDCCCLXXXVIII = 9630576 ->  Nine Million Six Hundred Thirty Thousand Five Hundred Seventy Six 
